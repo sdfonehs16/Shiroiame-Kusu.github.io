@@ -1,8 +1,5 @@
-# bwmc.live
-Website Files of bwmc.live
+# soujyu.top
+Website Files of soujyu.top
 
-Based On https://github.com/imsyy/home
- 
-![BWMC&nbsp;OOM&nbsp;Part](https://github.com/Shiroiame-Kusu/bwmc.live/blob/main/Preview.png)
-
-# Ver 1.6.0 NOW!!!
+Based On https://github.com/Shiroiame-Kusu/Shiroiame-Kusu.github.io
+Change personal Picture API and Music player
